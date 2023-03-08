@@ -45,3 +45,40 @@
   left:400px;
   bottom:433px;
 }
+
+/css for diagonal
+.first-container
+{
+  height:100px;
+    width:100px;
+    background-color:red;
+    position:absolute;
+  left:200px;
+  top:200px;
+
+  
+}
+.second-container
+{
+  height:100px;
+    width:100px;
+ 
+  background-color:blue;
+  position:absolute;
+  left:100px;
+  top:100px;
+  
+
+  
+}
+.third-container
+{
+  height:100px;
+    width:100px;
+  background-color:yellow;
+  position:absolute;
+    left:0px;
+  top:0px;
+  
+  
+}
