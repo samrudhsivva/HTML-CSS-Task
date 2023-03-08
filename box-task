@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  
+  <p class="first-container">
+  </p>
+  <p class="second-container">
+    
+    </p>
+   <p class="third-container">
+    </p>
+</body>
+</html>
+
+/CSS
+.first-container
+{
+  height:200px;
+    width:200px;
+    background-color:blue;
+  position:relative;
+  
+}
+.second-container
+{
+  height:200px;
+    width:200px;
+  background-color:yellow;
+  position:relative;
+  left:200px;
+  bottom:217px;
+}
+.third-container
+{
+  height:200px;
+    width:200px;
+  background-color:red;
+  position:relative;
+  left:400px;
+  bottom:433px;
+}
